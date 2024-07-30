@@ -70,3 +70,4 @@ if button_result:
                     excel_data, file_name='stock_data.xlsx')
 else :
     st.error("유효하지 않은 회사 이름입니다. 다시 입력해주세요.")
+
